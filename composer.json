@@ -1,0 +1,14 @@
+{
+    "name": "admin/php-banco",
+    "autoload": {
+        "psr-4": {
+            "Admin\\PhpBanco\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mayta"
+        }
+    ],
+    "require": {}
+}
